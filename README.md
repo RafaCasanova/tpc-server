@@ -1,6 +1,6 @@
 # TPC server with Go
 
-Um servidor TPC de comunicação assyncrona, de forma simples e sem muitos metodos até o momento.
+Um servidor TPC de comunicação assíncrona, de forma simples e sem muitos metodos até o momento.
 
 ## Autores
 
